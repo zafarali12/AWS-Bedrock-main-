@@ -111,8 +111,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 Author
+##  Author
 
-Developed by **Muhammad Zafar Ali** 🚀  
-📧 Contact: 03289569517  
-💻 GitHub: [zafarali12](https://github.com/zafarali12)
+Developed by **Muhammad Zafar Ali** 
+
